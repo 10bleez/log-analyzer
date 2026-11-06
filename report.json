@@ -1,0 +1,17 @@
+{
+    "total_lines": 4,
+    "malformed_lines": 1,
+    "filtered_events": 4,
+    "level_counts": {
+        "INFO": 1,
+        "ERROR": 2,
+        "WARN": 1
+    },
+    "source_counts": {
+        "Server1": 2,
+        "Server2": 2
+    },
+    "top_errors": {
+        "500": 2
+    }
+}

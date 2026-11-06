@@ -1,0 +1,5 @@
+2023-10-25T10:00:00Z | INFO | Server1 | 100 | Started
+2023-10-25T10:05:00Z | ERROR | Server1 | 500 | Crash
+Битая строка без разделителей
+2023-10-25T10:10:00Z | WARN | Server2 | 200 | High load
+2023-10-25T10:15:00Z | ERROR | Server2 | 500 | Database timeout
